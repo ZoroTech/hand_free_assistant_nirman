@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
   // Wake word engine
   PorcupineManager? porcupineManager;
   final String accessKey =
-      "mamkBdP4L0WkCSdHVB6iynfh5qKTdRCjPj2fC78ua2yqDoGz5xCAlQ=="; // replace later
+      "access key"; // replace later
 
   @override
   void initState() {
